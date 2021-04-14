@@ -3,7 +3,7 @@
         <nom>1.0</nom>
         <files>
             <file>
-                <url>https://github.com/maxmaxou2/ProsperChecker/Prosper-1.0.jar</url>
+                <url>https://github.com/maxmaxou2/ProsperChecker/raw/main/Prosper-1.0.jar</url>
                 <destination></destination>
             </file>
         </files>
@@ -12,7 +12,7 @@
         <nom>2.0</nom>
         <files>
             <file>
-                <url>https://github.com/maxmaxou2/ProsperChecker/Prosper-2.0.jar</url>
+                <url>https://github.com/maxmaxou2/ProsperChecker/raw/main/Prosper-2.0.jar</url>
                 <destination></destination>
             </file>
         </files>
@@ -21,7 +21,7 @@
         <nom>2.1</nom>
         <files>
             <file>
-                <url>https://github.com/maxmaxou2/ProsperChecker/Prosper-2.1.jar</url>
+                <url>https://github.com/maxmaxou2/ProsperChecker/raw/main/Prosper-2.1.jar</url>
                 <destination></destination>
             </file>
         </files>
@@ -30,7 +30,7 @@
         <nom>2.2</nom>
         <files>
             <file>
-                <url>https://github.com/maxmaxou2/ProsperChecker/Prosper-2.2.jar</url>
+                <url>https://github.com/maxmaxou2/ProsperChecker/raw/main/Prosper-2.2.jar</url>
                 <destination></destination>
             </file>
         </files>
@@ -39,7 +39,7 @@
         <nom>2.3</nom>
         <files>
             <file>
-                <url>https://github.com/maxmaxou2/ProsperChecker/Prosper-2.3.jar</url>
+                <url>https://github.com/maxmaxou2/ProsperChecker/raw/main/Prosper-2.3.jar</url>
                 <destination></destination>
             </file>
         </files>
