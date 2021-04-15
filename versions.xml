@@ -62,4 +62,13 @@
             </file>
         </files>
     </version>
+    <version>
+        <nom>2.6</nom>
+        <files>
+            <file>
+                <url>https://github.com/maxmaxou2/ProsperChecker/raw/main/Prosper-2.6.jar</url>
+                <destination></destination>
+            </file>
+        </files>
+    </version>
 </versions>
